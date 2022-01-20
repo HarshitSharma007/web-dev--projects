@@ -3,4 +3,4 @@
 #2 - Typing test website to check your speed at typing 
 [2.TYPING TESTER⌨](https://harshitsharma007.github.io/web-dev--projects/2-typing%20test/index.html)
 #3 - music app single click to play double click to pause 
-[3.Music-App]('https://harshitsharma007.github.io/web-dev--projects/music-app/Untitled-1.html')
+[3.Music-App](https://harshitsharma007.github.io/web-dev--projects/music-app/Untitled-1.html)
