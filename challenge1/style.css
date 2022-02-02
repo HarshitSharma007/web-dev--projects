@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+
+
+.container-1{width:70%;
+    margin:auto ;
+    text-align: center;
+    padding-top: 50px;
+    
+
+}
+
+.flexbox-container-1{
+    display:flex;
+    padding:40px;
+    border:1px solid black ;
+    justify-content: space-around;
+
+
+
+}
